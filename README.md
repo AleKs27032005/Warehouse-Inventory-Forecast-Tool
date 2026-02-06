@@ -96,6 +96,13 @@ Each `day_n` column represents sales for that day.
 
 ## 🚀 Setup & Installation
 
+## 📊 Sample Dataset
+
+A sample CSV file is included in the repository for testing the application:
+sample_inventory_data.csv
+
+You can upload this file directly to the Streamlit interface to see how the forecasting system works.
+
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/AleKs27032005/Warehouse-Inventory-Forecast-Tool.git
