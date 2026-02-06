@@ -99,7 +99,7 @@ Each `day_n` column represents sales for that day.
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/AleKs27032005/Warehouse-Inventory-Forecast-Tool.git
-cd smart-inventory-system
+cd Warehouse-Inventory-Forecast-Tool
 
 2️⃣ Create and Activate Virtual Environment
 Windows
